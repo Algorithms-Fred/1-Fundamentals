@@ -1,0 +1,8 @@
+a. if ( a > b ) then c = 0;
+ exists needless "then"
+b. if a > b { c = 0; }
+ "a > b" needs to be surrounded by "()" 
+c. if ( a > b ) c = 0;
+ correct
+d. if ( a > b ) c = 0 else b = 0;
+ c = 0 needs to be ended by ";"
