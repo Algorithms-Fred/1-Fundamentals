@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Demo2 {
+public class Ex_1_2_06 {
 	
 	public static boolean isCircularRotation(String s, String t) {
 		
