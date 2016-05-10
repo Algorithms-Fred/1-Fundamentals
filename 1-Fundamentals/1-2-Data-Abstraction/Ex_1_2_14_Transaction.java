@@ -1,12 +1,12 @@
 import java.util.Date;
 
-public class Transaction {
+public class Ex_1_2_14_Transaction {
 
 	private final String name;
 	private final Date date;
 	private final double amount;
 	
-	public Transaction(String n, Date d, double a) {
+	public Ex_1_2_14_Transaction(String n, Date d, double a) {
 		name = n;
 		date = d;
 		amount = a;
