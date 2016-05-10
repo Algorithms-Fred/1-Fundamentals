@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Demo2 {
+public class Ex_1_1_29 {
 
 	public static int rank(int key, int[] a) {
 		return rank(key, a, 0, a.length-1);
