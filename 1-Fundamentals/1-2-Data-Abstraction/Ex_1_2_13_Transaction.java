@@ -6,7 +6,7 @@ public class Ex_1_2_13_Transaction {
 	private final Date date;
 	private final double amount;
 	
-	public Transaction(String n, Date d, double a) {
+	public Ex_1_2_13_Transaction(String n, Date d, double a) {
 		name = n;
 		date = d;
 		amount = a;
