@@ -1,7 +1,7 @@
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdOut;
 
-public class Demo2 {
+public class Ex_1_2_15 {
 
 	public static int[] readInts(String name) {
 		
