@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Demo2 {
+public class Ex_1_1_11 {
 	
 	public static void main(String[] args) {
 		
