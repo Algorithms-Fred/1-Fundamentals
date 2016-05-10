@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
-public class Demo2 {
+public class Ex_1_2_13_Test {
 
 	public static void main(String[] args) {
 		
