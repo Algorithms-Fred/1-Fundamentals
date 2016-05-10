@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Demo2 {
+public class Ex_1_1_15 {
 	
 	public static int[] histogram(int[] a, int M) {
 		
