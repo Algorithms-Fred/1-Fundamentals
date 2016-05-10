@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class Transaction {
+public class Ex_1_2_13_Transaction {
 
 	private final String name;
 	private final Date date;
