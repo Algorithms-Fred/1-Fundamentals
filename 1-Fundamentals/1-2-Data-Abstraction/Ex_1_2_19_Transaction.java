@@ -2,19 +2,19 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Transaction {
+public class Ex_1_2_19_Transaction {
 
 	private String name;
 	private Date date;
 	private double amount;
 	
-	public Transaction(String n, Date d, double a) {
+	public Ex_1_2_19_Transaction(String n, Date d, double a) {
 		name = n;
 		date = d;
 		amount = a;
 	}	
 	
-	public Transaction(String transaction) {
+	public Ex_1_2_19_Transaction(String transaction) {
 		
 		SimpleDateFormat df = new SimpleDateFormat();
 		try {
