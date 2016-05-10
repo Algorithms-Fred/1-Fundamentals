@@ -15,7 +15,7 @@ public class Ex_1_2_13_Test {
 			Date d = df.parse(args[1]);
 			double a = Double.parseDouble(args[2]);
 			
-			Transaction t = new Transaction(n, d, a);
+			Ex_1_2_13_Transaction t = new Ex_1_2_13_Transaction(n, d, a);
 			
 			StdOut.println(t);
 			
