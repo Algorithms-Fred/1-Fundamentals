@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Demo2 {
+public class Ex_1_1_22 {
 	
 	public static int rank(int key, int[] a) {
 		// count number
